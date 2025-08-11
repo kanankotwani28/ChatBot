@@ -1,0 +1,6 @@
+ body{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top:0;
+        margin-bottom: 0; 
+        /* this is done to adjust the view point so we dont have to slide down the page */
+      }

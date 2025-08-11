@@ -1,0 +1,12 @@
+.app-container{
+  max-width: 600px;
+  margin-left:auto;
+  margin-right:auto;
+
+  height: 100vh;
+  /* this is done to adjust the size of container*/
+
+  /*now we need to slide doen the page using flex*/
+  display:flex;
+  flex-direction: column;
+}
